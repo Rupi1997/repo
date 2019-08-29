@@ -2,5 +2,6 @@
 // Start the session
 session_start();
 $_SESSION["favcolor"] = "green";
-$_SESSION["favanimal"] = "cat"; abcd
+$_SESSION["favanimal"] = "cat";
+$_SESSION["favanimal"] = "cat";
 ?>
